@@ -58,7 +58,7 @@ Das gibt echtes **Zeitgefühl** statt nur Position.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DCH.git
+git clone https://github.com/Arthur-KI/DCH.git
 cd DCH
 pip install -r requirements.txt
 ```
