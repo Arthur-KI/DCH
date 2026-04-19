@@ -1,0 +1,34 @@
+# Checkpoints & Models
+checkpoints/
+*.pt
+*.pth
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data (wird zur Laufzeit geladen)
+data/
+*.csv
+*.jsonl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
+venv/
